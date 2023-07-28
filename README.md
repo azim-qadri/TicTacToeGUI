@@ -45,7 +45,7 @@ To run the game, you need to have Python installed on your machine. Additionally
 
 ### Screenshots
 
-![Image1](http://url/to/img.png) ![Image2](http://url/to/img.png)
+![Image1]([http://url/to/img.png](https://github.com/azim-qadri/TicTacToeGUI/blob/main/Screenshot%20(77).png)) ![Image2](http://url/to/img.png)
 
 ### Acknowledgments
 
